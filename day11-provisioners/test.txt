@@ -1,0 +1,2 @@
+Hello from Terraform File Provisioner!
+This file was copied from my local machine to EC2.
